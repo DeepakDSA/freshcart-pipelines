@@ -1,0 +1,16 @@
+# Required by the assignment
+.env
+*.pkl
+*.csv
+mage.log
+__pycache__/
+
+# Helpful extras
+.ipynb_checkpoints/
+.pytest_cache/
+*.log
+.venv/
+
+# Mage runtime data (created when Mage runs)
+mage_data/
+~/

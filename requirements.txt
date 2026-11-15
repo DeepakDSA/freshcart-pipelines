@@ -1,0 +1,6 @@
+# Needed by CI (tests) and the stream scripts.
+# Mage itself is installed separately in Colab (see the Mage notebook), not on the CI runner.
+pandas
+scikit-learn
+pytest
+pika
